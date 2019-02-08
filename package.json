@@ -1,0 +1,8 @@
+{
+  "name": "smpl-srch",
+  "version": "1.0.0",
+  "description": "Small simple search module",
+  "main": "lib/index.js",
+  "author": "k-egor-smirnov",
+  "license": "MIT"
+}
